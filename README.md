@@ -1,9 +1,9 @@
-<img align="center" alt="Coding" width="80%" height="300" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
+<img align="center" alt="Coding" width="85%" height="200" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Esther Mawioo</h1>
 <h3 align="center">A passionate FullStack developer from Kenya</h3>
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
+<img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumo-esther&label=Profile%20views&color=0e75b6&style=flat" alt="mumo-esther" /> </p>

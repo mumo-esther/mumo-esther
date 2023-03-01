@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Esther Mawioo</h1>
 <h5 align="center">A passionate FullStack developer and a freelance software engineer from Nairobi, Kenya <br> I am also a student at Microverse Bootcamp. i learned a lot from Microverse community and I love how collaboration and knowledge sharing happens through Microverse</h5>
 
-<img align="right" alt="Coding" width="350" height="410" src="https://raw.githubusercontent.com/DanielMawioo/DanielMawioo/master/code.gif">
+<img align="right" alt="Coding" width="250" height="410" src="https://raw.githubusercontent.com/DanielMawioo/DanielMawioo/master/code.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumo-esther&label=Profile%20views&color=0e75b6&style=flat" alt="mumo-esther" /> </p>

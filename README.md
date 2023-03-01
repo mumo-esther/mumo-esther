@@ -1,9 +1,9 @@
 <img align="center" alt="Coding" width="85%" height="200" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Esther Mawioo</h1>
-<h3 align="center">A passionate FullStack developer from Kenya</h3>
+<h5 align="center">A passionate FullStack developer and a freelance software engineer from Nairobi, Kenya <br> I am also a student at Microverse Bootcamp. i learned a lot from Microverse community and I love how collaboration and knowledge sharing happens through Microverse</h5>
 
-<img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
+<img align="right" alt="Coding" width="350" height="410" src="https://raw.githubusercontent.com/DanielMawioo/DanielMawioo/master/code.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumo-esther&label=Profile%20views&color=0e75b6&style=flat" alt="mumo-esther" /> </p>
@@ -15,12 +15,16 @@
 - 🌱 I’m currently learning **Javascript best Practices**
 
 - 👨‍💻 All of my projects are available at [https://mumo-esther.github.io/Desktop-version-Portfolio/](https://mumo-esther.github.io/Desktop-version-Portfolio/)
-
+      
 - 💬 Ask me about **Html, Css, Javascript**
+         
+  <h1 align="center">💼 any freelance work?</h1>
+  
+- 💼 do reach me, **mumoesther2021@gmail.com**
 
-- 📫 How to reach me **mumoesther2021@gmail.com**
+- 🤙 call on +254712247957.
 
-- ⚡ Fun fact **I think my pet is funny**
+- 📫 ask me about anything, i am happy to help;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

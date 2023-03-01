@@ -3,7 +3,16 @@
 <h1 align="center">Hi 👋, I'm Esther Mawioo</h1>
 <h5 align="center">A passionate FullStack developer and a freelance software engineer from Nairobi, Kenya <br> I am also a student at Microverse Bootcamp. i learned a lot from Microverse community and I love how collaboration and knowledge sharing happens through Microverse</h5>
 
-<img align="right" alt="Coding" width="150" height="300" src="https://raw.githubusercontent.com/DanielMawioo/DanielMawioo/master/code.gif">
+ <h1 align="center">💼 any freelance work? I am Available :)</h1>
+  
+- 💼 do reach me, **mumoesther2021@gmail.com**
+
+- 🤙 call on +254712247957.
+
+- 📫 ask me about anything, i am happy to help;
+
+
+<img align="right" alt="Coding" width="180" height="300" src="https://raw.githubusercontent.com/DanielMawioo/DanielMawioo/master/code.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumo-esther&label=Profile%20views&color=0e75b6&style=flat" alt="mumo-esther" /> </p>
@@ -18,14 +27,6 @@
       
 - 💬 Ask me about **Html, Css, Javascript**
          
-  <h1 align="center">💼 any freelance work?</h1>
-  
-- 💼 do reach me, **mumoesther2021@gmail.com**
-
-- 🤙 call on +254712247957.
-
-- 📫 ask me about anything, i am happy to help;
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/esthermawioo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esthermawioo" height="30" width="40" /></a>

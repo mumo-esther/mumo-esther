@@ -15,13 +15,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mumo-esther" alt="mumo-esther" /></a> </p>
 
-- 🔭 I’m currently working on [ToDo List](https://mumo-esther.github.io/To-Do-List/dist/)
+- 🔭 I’m currently working on **Electronic Medical records Project**
 
 - 🌱 I’m currently learning **Javascript best Practices**
 
 - 👨‍💻 All of my projects are available at [https://mumo-esther.github.io/Desktop-version-Portfolio/](https://mumo-esther.github.io/Desktop-version-Portfolio/)
       
-- 💬 Ask me about **Html, Css, Javascript**
+- 💬 Ask me about **Javascript, Angular, React, React Native, Typescript, Ruby, Ruby on Rails**
          
 <h3 align="left">Connect with me:</h3>
 <p align="left">
